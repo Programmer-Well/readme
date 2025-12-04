@@ -3,8 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wellington__souzaa/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/wellington__souzaa/)
 
-![Wellington  GitHub stats](https://github-readme-stats.vercel.app/api?username=Programmer-Well&show_icons=true&theme=dark)
-
 ## Um pouco sobre mim:
 
 Iniciei uma jornada empolgante no mundo da infraestrutura de TI, buscando solucionar problemas complexos e otimizar operações. 🚀 Agora, mergulho no universo da programação, aprimorando minhas habilidades para construir soluções inovadoras que impactem positivamente a vida das pessoas. 💻 Graduado em Análise e Desenvolvimento de Sistemas, dedico-me a aprender e contribuir com a evolução tecnológica. 💡
